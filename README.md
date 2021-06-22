@@ -2,4 +2,4 @@
 C'est un code sympa pour piloter la matrice à iooioo
 
 ## Etape 1
-REGARDER LE LIVE
+VA VOIR https://twitch.tv/ioodyme
