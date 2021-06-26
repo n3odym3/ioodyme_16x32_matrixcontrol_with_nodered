@@ -3,8 +3,11 @@ C'est un code sympa pour piloter la matrice à iooioo
 ## Dependencies 
 
 node-red-contrib-image-tools
+
 node-red-contrib-twitch-chat
+
 node-red-dashboard
+
 node-red-node-base64
 
 ## Etape 1
